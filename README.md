@@ -3,7 +3,9 @@
 Module Requirements:
 
 requests
+
 json
+
 plotly
 
 
